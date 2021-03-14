@@ -8,7 +8,7 @@ The purpose of the analysis overall was to determine the the return of each gree
 
 
 ### Results 
-We see from the [2017 results (not refactored)](https://github.com/MuddassirR/stock-analysis/blob/main/2017_not_refactored.png) that ENPH had the best return while TERP had the worst. It took 0.6 seconds to run the analysis. Compared to the [refactored 2017 results])(https://github.com/MuddassirR/stock-analysis/blob/main/VBA_Challenge_2017.png) DQ had the highest return while TERP still had the lowest return. This time, the code ran in 0.07 seconds, almost 10x faster. 
+We see from the [2017 results (not refactored)](https://github.com/MuddassirR/stock-analysis/blob/main/2017_not_refactored.png) that ENPH had the best return while TERP had the worst. It took 0.6 seconds to run the analysis. Compared to the [refactored 2017 results](https://github.com/MuddassirR/stock-analysis/blob/main/VBA_Challenge_2017.png) DQ had the highest return while TERP still had the lowest return. This time, the code ran in 0.07 seconds, almost 10x faster. 
 
 Furthermore, we see from the  [2018results (not refactored)](https://github.com/MuddassirR/stock-analysis/blob/main/2018_not_refactored.png) that Run had the highest return while DQ had the lowest and this was found in 0.6 sseconds. From the [refactored 2018 results](https://github.com/MuddassirR/stock-analysis/blob/main/VBA_Challenge_2018.png) we see that the code actually ran this in 0.07 seconds, almost 10x faster as well. 
 
